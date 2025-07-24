@@ -1,4 +1,4 @@
-
+// sw.js
 const CACHE_NAME = 'mp-tende-cache-v1';
 const URLS_TO_CACHE = [
   '/',
